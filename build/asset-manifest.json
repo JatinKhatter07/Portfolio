@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a1a5f406.css",
+    "main.js": "/static/js/main.a05b072f.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/fitnessblender.png": "/static/media/fitnessblender.39874993cb4d50941dbd.png",
+    "static/media/geeks.png": "/static/media/geeks.b1aa8741b7493e95183f.png",
+    "static/media/airgarage.png": "/static/media/airgarage.e5d795c4249b6d31b534.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Jatin_Khatter_Resume.pdf": "/static/media/Jatin_Khatter_Resume.afa0902d1d7ae0c72320.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.a1a5f406.css.map": "/static/css/main.a1a5f406.css.map",
+    "main.a05b072f.js.map": "/static/js/main.a05b072f.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1a5f406.css",
+    "static/js/main.a05b072f.js"
+  ]
+}
